@@ -1,0 +1,807 @@
+{
+  "ret": true,
+  "data": {
+    "DetailId": "001",
+    "sightName": "长隆野生动物世界(AAAAA景区)",
+    "title": "长隆野生动物世界",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1709/41/411f234d79457081a3.img.jpg_600x330_b5e86902.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1605/47/47e676ee434a591490.img.jpg_r_800x800_fb15bd87.jpg", "http://img1.qunarzz.com/sight/p0/1605/d4/d4e2dce9d328d5b290.img.jpg_r_800x800_892973df.jpg"],
+    "categoryLists":[{
+      "TicketClass": "全票",
+      "children": [{
+        "title": "成人票【周末/节假日】",
+        "childrens": [{
+          "title": "【1】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }, {
+          "title": "【2】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }, {
+          "title": "【3】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }]
+      },{
+        "title": "成人票【平日】",
+        "childrens": [{
+          "title": "【1】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }, {
+          "title": "【2】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }, {
+          "title": "【3】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }]
+      }]
+    }, {
+      "TicketClass": "套票",
+      "children": [{
+        "title": "家庭票（2大1小）【周末/节假日】",
+        "childrens": [{
+          "title": "长隆野生动物世界(两大一小）广州长隆节假日通用",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }]
+      },{
+        "title": "家庭票（2大1小）【平日】",
+        "childrens": [{
+          "title": "长隆野生动物世界(两大一小）广州长隆节假日通用",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }]
+      }]
+    }, {
+      "TicketClass": "动物世界+大马戏",
+      "children": [{
+        "title": "成人票【周末/节假日】",
+        "childrens": [{
+          "title": "长隆野生动物世界+长隆国际马戏大剧院特定日全票19:30场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }, {
+          "title": "长隆野生动物园+大马戏套票 19点30分场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }, {
+          "title": "【自动出票】大马戏19:30场次+动物园套票（特定日）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }]
+      },{
+        "title": "成人票【平日】",
+        "childrens": [{
+          "title": "广州长隆野生动物世界+长隆国际大马戏平日套票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }, {
+          "title": "【自动发码 】动物世界+长隆大马戏套票-场次19:30（平）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }, {
+          "title": "【快速发码】广州长隆野生动物园+国际大马戏套票电子票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false
+        }]
+      }]
+    }]
+  },
+  "datas":[{
+    "DetailId": "001",
+    "sightName": "长隆野生动物世界(AAAAA景区)",
+    "title": "长隆野生动物世界",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1709/41/411f234d79457081a3.img.jpg_600x330_b5e86902.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1605/47/47e676ee434a591490.img.jpg_r_800x800_fb15bd87.jpg", "http://img1.qunarzz.com/sight/p0/1605/d4/d4e2dce9d328d5b290.img.jpg_r_800x800_892973df.jpg"],
+    "categoryLists":[{
+      "TicketClass": "全票",
+      "children": [{
+        "title": "成人票【周末/节假日】",
+        "childrens": [{
+          "title": "【1】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }, {
+          "title": "【2】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+
+        }, {
+          "title": "【3】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }]
+      },{
+        "title": "成人票【平日】",
+        "childrens": [{
+          "title": "【1】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }, {
+          "title": "【2】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }, {
+          "title": "【3】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }]
+      }]
+    }, {
+      "TicketClass": "套票",
+      "children": [{
+        "title": "家庭票（2大1小）【周末/节假日】",
+        "childrens": [{
+          "title": "长隆野生动物世界(两大一小）广州长隆节假日通用",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }]
+      },{
+        "title": "家庭票（2大1小）【平日】",
+        "childrens": [{
+          "title": "长隆野生动物世界(两大一小）广州长隆节假日通用",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }]
+      }]
+    }, {
+      "TicketClass": "动物世界+大马戏",
+      "children": [{
+        "title": "成人票【周末/节假日】",
+        "childrens": [{
+          "title": "长隆野生动物世界+长隆国际马戏大剧院特定日全票19:30场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }, {
+          "title": "长隆野生动物园+大马戏套票 19点30分场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }, {
+          "title": "【自动出票】大马戏19:30场次+动物园套票（特定日）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }]
+      },{
+        "title": "成人票【平日】",
+        "childrens": [{
+          "title": "广州长隆野生动物世界+长隆国际大马戏平日套票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }, {
+          "title": "【自动发码 】动物世界+长隆大马戏套票-场次19:30（平）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }, {
+          "title": "【快速发码】广州长隆野生动物园+国际大马戏套票电子票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "001",
+          "number": "1"
+        }]
+      }]
+    }]
+  },{
+    "DetailId": "002",
+    "sightName": "长隆国际大马戏剧院",
+    "title": "魔幻大马戏",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1809/71/71daa558cbccbb92a3.img.jpg_600x330_7eb6ae09.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1809/71/71daa558cbccbb92a3.img.jpg_r_800x800_ff5ccd75.jpg", "http://img1.qunarzz.com/sight/p0/1809/98/98ad8fb1d8c14b3fa3.img.jpg_r_800x800_f3699cf1.jpg","http://img1.qunarzz.com/sight/p0/1809/6b/6bf6eaefb47cb7c9a3.img.jpg_r_800x800_6c725761.jpg"],
+    "categoryLists":[{
+      "TicketClass": "全票",
+      "children": [{
+        "title": "成人票【周末/节假日】",
+        "childrens": [{
+          "title": "【自动出票】广州长隆国际大马戏普通座-场次19:30（特）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }, {
+          "title": "广州长隆国际大马戏特定日成人票19点30分场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }, {
+          "title": "【当天可订】广州长隆国际大马戏特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }]
+      },{
+        "title": "成人票【平日】",
+        "childrens": [{
+          "title": "【当天随订随用】广州长隆马戏剧院-平日",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }, {
+          "title": "【自动出票】广州长隆国际大马戏普通座-场次19:30（平日）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }, {
+          "title": "【19:30场次】广州长隆国际大马戏-平日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }]
+      }]
+    }, {
+      "TicketClass": "大马戏+动物世界",
+      "children": [{
+        "title": "成人票【周末/节假日】",
+        "childrens": [{
+          "title": "长隆野生动物园+大马戏套票 19点30分场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }]
+      },{
+        "title": "成人票【平日】",
+        "childrens": [{
+          "title": "【自动发码 】动物世界+长隆大马戏套票-场次19:30（平）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }]
+      }]
+    }, {
+      "TicketClass": "动物世界+大马戏",
+      "children": [{
+        "title": "成人票【周末/节假日】",
+        "childrens": [{
+          "title": "长隆野生动物世界+长隆国际马戏大剧院特定日全票19:30场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }, {
+          "title": "长隆野生动物园+大马戏套票 19点30分场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }, {
+          "title": "【自动出票】大马戏19:30场次+动物园套票（特定日）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }]
+      },{
+        "title": "成人票【平日】",
+        "childrens": [{
+          "title": "广州长隆野生动物世界+长隆国际大马戏平日套票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }, {
+          "title": "【自动发码 】动物世界+长隆大马戏套票-场次19:30（平）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }, {
+          "title": "【快速发码】广州长隆野生动物园+国际大马戏套票电子票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "002",
+          "number": "1"
+        }]
+      }]
+    }]
+  },{
+    "DetailId": "004",
+    "sightName": "长隆水上乐园",
+    "title": "长隆水上乐园",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1707/ab/abb70c851caaa6d8a3.img.jpg_600x330_af719163.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1707/ab/abb70c851caaa6d8a3.img.jpg_r_800x800_f1e628fe.jpg", "http://img1.qunarzz.com/sight/p0/1707/ee/ee7ddb170be69716a3.img.jpg_r_800x800_f0ad7d83.jpg","http://img1.qunarzz.com/sight/p0/1707/33/33d47d55bbab5c84a3.img.jpg_r_800x800_a9489697.jpg"],
+    "categoryLists":[{
+      "TicketClass": "日场票",
+      "children": [{
+        "title": "成人票",
+        "childrens": [{
+          "title": "长隆水上乐园成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "004",
+          "number": "1"
+        }, {
+          "title": "【系统自动发码】广州长隆水上乐园 成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "004",
+          "number": "1"
+        }, {
+          "title": "长隆水上乐园全天成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "004",
+          "number": "1"
+        }]
+      },{
+        "title": "儿童票",
+        "childrens": [{
+          "title": "长隆水上乐园儿童票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "004",
+          "number": "1"
+        }]
+      }]
+    }, {
+      "TicketClass": "两园两日套票",
+      "children": [{
+        "title": "水园+飞鸟【成人票】",
+        "childrens": [{
+          "title": "【自动出票 两日两园】广州长隆水上乐园+飞鸟乐园成人套票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "004",
+          "number": "1"
+        }]
+      },{
+        "title": "水园+飞鸟【儿童票】",
+        "childrens": [{
+          "title": "【自动出票 两日两园】广州长隆水上乐园+飞鸟乐园儿童套票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "004",
+          "number": "1"
+        }]
+      }]
+    }, {
+      "TicketClass": "三园三日套票",
+      "children": [{
+        "title": "水园+动物+欢乐【成人票】",
+        "childrens": [{
+          "title": "【系统发码速度快】动物世界+欢乐世界+水上乐园三园三日全票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "004",
+          "number": "1"
+        }, {
+          "title": "【系统发码速度快】动物世界+欢乐世界+水上乐园三园三日全票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "004",
+          "number": "1"
+        }, {
+          "title": "广州长隆动物世界+欢乐世界+水上乐园三园三日票成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "004",
+          "number": "1"
+        }]
+      },{
+        "title": "水园+动物+飞鸟【成人票】",
+        "childrens": [{
+          "title": "长隆野生动物世界+长隆飞鸟乐园+长隆水上乐园 三园三日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "004",
+          "number": "1"
+        }]
+      }]
+    }]
+  },{
+    "DetailId": "003",
+    "sightName": "长隆欢乐世界",
+    "title": "长隆欢乐世界",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1810/a0/a021cde25761c0aa3.img.jpg_600x330_a79a34ce.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1810/a0/a021cde25761c0aa3.img.jpg_r_800x800_f26f4ea9.jpg", "http://img1.qunarzz.com/sight/p0/1707/f4/f44d291b76de7b14a3.img.jpg_r_800x800_805a5b06.jpg","http://img1.qunarzz.com/sight/p0/1707/b9/b93e947051180ec5a3.img.jpg_r_800x800_dfbf15eb.jpg"],
+    "categoryLists":[{
+      "TicketClass": "全票",
+      "children": [{
+        "title": "成人票",
+        "childrens": [{
+          "title": "【系统自助发码，快速入园】广州长隆欢乐世界成人电子票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }, {
+          "title": "【系统自助出票，快速发码】广州长隆欢乐世界成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }, {
+          "title": "【系统自动出票】广州长隆欢乐世界 成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }]
+      },{
+        "title": "情侣票",
+        "childrens": [{
+          "title": "长隆欢乐世界情侣票取票快捷方便",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }, {
+          "title": "【系统出票速度快】长隆欢乐世界情侣票（1男1女）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }, {
+          "title": "【系统自动发码】广州长隆欢乐世界情侣票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }]
+      }]
+    }, {
+      "TicketClass": "特殊人群票",
+      "children": [{
+        "title": "大学生票",
+        "childrens": [{
+          "title": "长隆欢乐世界大学生票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }]
+      },{
+        "title": "儿童票",
+        "childrens": [{
+          "title": "【自动出票 立刻发码】广州长隆欢乐世界儿童票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }]
+      }]
+    }, {
+      "TicketClass": "动物世界+大马戏",
+      "children": [{
+        "title": "成人票【周末/节假日】",
+        "childrens": [{
+          "title": "长隆野生动物世界+长隆国际马戏大剧院特定日全票19:30场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }, {
+          "title": "长隆野生动物园+大马戏套票 19点30分场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003"
+        }, {
+          "title": "【自动出票】大马戏19:30场次+动物园套票（特定日）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }]
+      },{
+        "title": "成人票【平日】",
+        "childrens": [{
+          "title": "广州长隆野生动物世界+长隆国际大马戏平日套票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }, {
+          "title": "【自动发码 】动物世界+长隆大马戏套票-场次19:30（平）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }, {
+          "title": "【快速发码】广州长隆野生动物园+国际大马戏套票电子票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "003",
+          "number": "1"
+        }]
+      }]
+    }]
+  },{
+    "DetailId": "005",
+    "sightName": "广州长隆旅游度假区",
+    "title": "广州长隆旅游度假区",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1603/3b/3bd311262ee06d8c90.img.jpg_600x330_cd2e3bf7.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1603/3b/3bd311262ee06d8c90.img.jpg_r_800x800_41637b9b.jpg","http://img1.qunarzz.com/sight/p0/1603/3b/3bd311262ee06d8c90.img.jpg_r_800x800_41637b9b.jpg","http://img1.qunarzz.com/sight/p0/1603/3b/3bd311262ee06d8c90.img.jpg_r_800x800_41637b9b.jpg"],
+    "categoryLists":[{
+      "TicketClass": "长隆马戏",
+      "children": [{
+        "title": "成人票",
+        "childrens": [{
+          "title": "【自动出票】广州长隆国际大马戏普通座-场次19:30（特）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }, {
+          "title": "广州长隆国际大马戏特定日成人票19点30分场次",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }, {
+          "title": "【当天可订】广州长隆国际大马戏特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }]
+      },{
+        "title": "成人票【平日】",
+        "childrens": [{
+          "title": "【当天随订随用】广州长隆马戏剧院-平日",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }, {
+          "title": "【自动出票】广州长隆国际大马戏普通座-场次19:30（平日）",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }, {
+          "title": "【19:30场次】广州长隆国际大马戏-平日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }]
+      }]
+    }, {
+      "TicketClass": "动物世界",
+      "children": [{
+        "title": "成人票【周末/节假日】",
+        "childrens": [{
+          "title": "【系统自动发码】长隆野生动物世界特定日成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }]
+      },{
+        "title": "成人票【平日】",
+        "childrens": [{
+          "title": "【当天随订随用】长隆动物世界成人票·平日",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }]
+      }]
+    }, {
+      "TicketClass": "欢乐世界",
+      "children": [{
+        "title": "成人票",
+        "childrens": [{
+          "title": "【系统自助发码，快速入园】广州长隆欢乐世界成人电子票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }, {
+          "title": "【系统自助出票，快速发码】广州长隆欢乐世界成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }, {
+          "title": "【系统自动出票】广州长隆欢乐世界 成人票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }]
+      },{
+        "title": "大学生票",
+        "childrens": [{
+          "title": "长隆欢乐世界大学生票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }, {
+          "title": "【系统自动发码 出票速度快】广州长隆欢乐世界大学生票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }, {
+          "title": "【系统自动发码】广州长隆欢乐世界大学生票",
+          "des": "预订须知>",
+          "reservation": "预订",
+          "OpenMenu":false,
+          "money": "256.1",
+          "DetailId": "005",
+          "number": "1"
+        }]
+      }]
+    }]
+  }]
+}
