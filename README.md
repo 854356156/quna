@@ -11,12 +11,6 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
+去哪网案例是基于移动端去哪网的景点区域的多页面开发，由景点首页、首页城市选择、以及首页的推荐景点页面构成
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-123
+1.运用了VUE的基本指令，组件化开发模式、多页面传值、页面数据请求，第三方插件运用，以及路由
